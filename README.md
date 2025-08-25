@@ -36,10 +36,4 @@
 | **Maven** | 3.9+ | Сборка проекта |
 | **Docker** | 20+ | Контейнеризация Keycloak |
 
-## 🚀 Быстрый старт
 
-### 1. Клонирование репозитория
-
-```bash
-git clone https://github.com/pavelitel05/keycloak-oauth-example.git
-cd keycloak-oauth-example
