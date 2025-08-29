@@ -11,7 +11,7 @@ import static lombok.AccessLevel.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @FieldDefaults(level = PRIVATE)
-public class Cat {
+public class User {
     String name;
     int age;
     String color;

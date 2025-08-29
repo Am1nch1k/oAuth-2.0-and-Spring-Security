@@ -1,3 +1,6 @@
-com/amin/course/CourseApplication.class
+com/amin/course/config/AuthoritiesConverter.class
 com/amin/course/controller/MainController.class
+com/amin/course/config/SecurityConfig.class
 com/amin/course/entity/Cat.class
+com/amin/course/CourseApplication.class
+com/amin/course/DTO/AuthDTO.class

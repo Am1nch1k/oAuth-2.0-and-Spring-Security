@@ -1,3 +1,6 @@
-/Users/a1234/Downloads/course/src/main/java/com/amin/course/CourseApplication.java
-/Users/a1234/Downloads/course/src/main/java/com/amin/course/controller/MainController.java
-/Users/a1234/Downloads/course/src/main/java/com/amin/course/entity/Cat.java
+/Users/a1234/Downloads/oAuth-2.0-and-Spring-Security/src/main/java/com/amin/course/controller/MainController.java
+/Users/a1234/Downloads/oAuth-2.0-and-Spring-Security/src/main/java/com/amin/course/DTO/AuthDTO.java
+/Users/a1234/Downloads/oAuth-2.0-and-Spring-Security/src/main/java/com/amin/course/config/AuthoritiesConverter.java
+/Users/a1234/Downloads/oAuth-2.0-and-Spring-Security/src/main/java/com/amin/course/entity/Cat.java
+/Users/a1234/Downloads/oAuth-2.0-and-Spring-Security/src/main/java/com/amin/course/CourseApplication.java
+/Users/a1234/Downloads/oAuth-2.0-and-Spring-Security/src/main/java/com/amin/course/config/SecurityConfig.java
