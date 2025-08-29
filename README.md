@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<<<<<<< HEAD
+
 ![Keycloak](https://img.shields.io/badge/Keycloak-11.0.3-FF6900?style=for-the-badge&logo=keycloak)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.4-6DB33F?style=for-the-badge&logo=springboot)
 ![OAuth2](https://img.shields.io/badge/OAuth%202.0-2.5.6-EB5424?style=for-the-badge&logo=oauth)
@@ -67,7 +67,7 @@
 
 ## 🏗️ Архитектура
 
-```mermaid
+mermaid
 graph TD
     A[Client] --> B[Spring Boot App]
     B --> C[Keycloak Server]
